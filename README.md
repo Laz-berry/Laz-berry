@@ -2,7 +2,7 @@
 
 Hello, I'm a Data Engineer with a passion for handling and transforming data into valuable insights. I specialize in designing and building scalable data infrastructure to support data-driven applications.
 
-## Skills
+## 🎆Skills
 
 - <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=yellow"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 - **Data Processing**: Proficient in working with large datasets and implementing ETL (Extract, Transform, Load) processes to cleanse, transform, and aggregate data.
@@ -13,14 +13,14 @@ Hello, I'm a Data Engineer with a passion for handling and transforming data int
 - **Data Visualization**: Proficient in using visualization tools like Tableau or Power BI to create interactive dashboards and reports.
 - **Programming**: Strong programming skills in languages such as Python, SQL, and experience with scripting languages like Bash.
 
-## Projects
+## 📘Projects
 
 - **Real-Time Data Processing**: Developed a real-time data pipeline using Apache Kafka, Apache Spark Streaming, and Elasticsearch to process and analyze streaming data.
 - **Data Warehouse Implementation**: Designed and implemented a cloud-based data warehouse using Amazon Redshift, ensuring high scalability and performance.
 - **ETL Automation**: Built an automated ETL pipeline using Python and Apache Airflow to extract data from multiple sources, transform it, and load it into a data warehouse.
 - **Data Quality Monitoring**: Developed a data quality monitoring system using SQL queries and data profiling techniques to identify and resolve data quality issues.
 
-## Education
+## :Education
 
 - **Bachelor of Science in Computer Science**: ABC University, Year
 
