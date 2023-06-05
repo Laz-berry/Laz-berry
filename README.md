@@ -20,9 +20,9 @@ Hello, I'm a Data Engineer with a passion for handling and transforming data int
 - **ETL Automation**: Built an automated ETL pipeline using Python and Apache Airflow to extract data from multiple sources, transform it, and load it into a data warehouse.
 - **Data Quality Monitoring**: Developed a data quality monitoring system using SQL queries and data profiling techniques to identify and resolve data quality issues.
 
-## :Education
+## 🎩Education
 
-- **Bachelor of Science in Computer Science**: ABC University, Year
+- **Bachelor's degree of Faculty of AI Convergence**: Soongsil University, 2017. 3 ~ 2023. 8
 
 ## Certifications
 
