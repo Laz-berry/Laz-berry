@@ -4,6 +4,7 @@ Hello, I'm a Data Engineer with a passion for handling and transforming data int
 
 ## Skills
 
+- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=yellow"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 - **Data Processing**: Proficient in working with large datasets and implementing ETL (Extract, Transform, Load) processes to cleanse, transform, and aggregate data.
 - **Database Technologies**: Experienced in working with various database systems such as SQL, NoSQL, and data warehousing solutions.
 - **Data Modeling**: Skilled in creating efficient data models that meet business requirements and enable efficient data retrieval.
