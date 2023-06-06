@@ -37,7 +37,6 @@ Hello, I'm a Data Engineer with a passion for handling and transforming data int
 - **ADsP**: 2022. 6
 - **Toeic Speaking LV.6**: 2022. 2
 - **Information processing engineer**: 2023. 7
-- ****
 
 ## 📱Contact Me
 
