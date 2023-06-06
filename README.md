@@ -11,6 +11,7 @@ Hello, I'm a Data Engineer with a passion for handling and transforming data int
 - **Tools**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+
 - **Data Processing**: Proficient in working with large datasets and implementing ETL (Extract, Transform, Load) processes to cleanse, transform, and aggregate data.
 - **Database Technologies**: Experienced in working with various database systems such as SQL, NoSQL, and data warehousing solutions.
 - **Data Modeling**: Skilled in creating efficient data models that meet business requirements and enable efficient data retrieval.
