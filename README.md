@@ -42,5 +42,3 @@ Hello, I'm a Data Engineer with a passion for handling and transforming data int
 Feel free to reach out to me to discuss any data engineering opportunities or collaborations.
 
 - 📧Email: [twilight4206@naver.com](mailto:twilight4206@naver.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
-- Portfolio: [Your Portfolio](https://your-portfolio-website.com)
