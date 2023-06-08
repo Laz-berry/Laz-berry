@@ -13,19 +13,15 @@ Hello, I'm a Data Engineer with a passion for handling and transforming data int
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 - **Data Processing**: Proficient in working with large datasets and implementing ETL (Extract, Transform, Load) processes to cleanse, transform, and aggregate data.
-- **Database Technologies**: Experienced in working with various database systems such as SQL, NoSQL, and data warehousing solutions.
 - **Data Modeling**: Skilled in creating efficient data models that meet business requirements and enable efficient data retrieval.
-- **Big Data Technologies**: Familiar with distributed computing frameworks like Hadoop, Apache Spark, and Apache Flink for processing big data at scale.
-- **Data Pipeline Orchestration**: Knowledgeable in workflow management tools like Apache Airflow or Luigi for orchestrating complex data pipelines.
-- **Data Visualization**: Proficient in using visualization tools like Tableau or Power BI to create interactive dashboards and reports.
-- **Programming**: Strong programming skills in languages such as Python, SQL, and experience with scripting languages like Bash.
+- **Data Handling**: Handle data through various libraries in Python.
+- **Data Visualization**: Proficient in using visualization tools like Seaborn or Matplotlib to create interactive visualize and reports.
+- **Programming**: Strong programming skills in languages such as Python, and experience with C, C++ and scripting languages like Bash.
 
 ## 📘Projects
 
-- **Real-Time Data Processing**: Developed a real-time data pipeline using Apache Kafka, Apache Spark Streaming, and Elasticsearch to process and analyze streaming data.
-- **Data Warehouse Implementation**: Designed and implemented a cloud-based data warehouse using Amazon Redshift, ensuring high scalability and performance.
-- **ETL Automation**: Built an automated ETL pipeline using Python and Apache Airflow to extract data from multiple sources, transform it, and load it into a data warehouse.
-- **Data Quality Monitoring**: Developed a data quality monitoring system using SQL queries and data profiling techniques to identify and resolve data quality issues.
+- **YouTube Trend Data Processing**: Analyzing YouTube trend data through topic modeling and predicting consumer consumption direction.
+- **League of Legend game analyize**: Analysis of player behavior and game meta through analysis of game data called League of Legends and analysis of victory.
 
 ## 🎩Education
 
